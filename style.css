@@ -55,16 +55,16 @@ h1 {
 .Intruduccion {
     position: absolute;
     font-size: 30px;
-    top: 500px;
+    top: 1000px;
 }
 .justificacion {
     position: absolute;
     font-size: 30px;
-    top: 800px;
+    top: 1300px;
 }
 
 .objetivo {
     position: absolute;
     font-size: 30px;
-    top: 200px;
+    top: 500px;
 }
