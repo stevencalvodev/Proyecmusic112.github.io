@@ -62,3 +62,9 @@ h1 {
     font-size: 30px;
     top: 500px;
 }
+
+.objetivo {
+    position: absolute;
+    font-size: 30px;
+    top: 200px;
+}
